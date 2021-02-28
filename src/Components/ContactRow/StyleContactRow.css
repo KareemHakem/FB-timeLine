@@ -1,0 +1,15 @@
+.contact_row{
+    margin: 15px 5px;
+    cursor: pointer;
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+}
+/* .contact_row:hover{
+    background-color: rgb(216, 214, 214);
+} */
+
+.avatar_text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}

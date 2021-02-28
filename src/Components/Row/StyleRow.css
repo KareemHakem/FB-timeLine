@@ -1,0 +1,14 @@
+
+
+.row{
+   margin: 25px 20px;
+   padding: 10px; 
+   width: 70%;
+   height: 50px;
+   border-radius: 20px;
+   background-color: transparent;
+   cursor: pointer;
+}
+.row:hover{
+   background-color: rgb(236, 236, 236); 
+ }
