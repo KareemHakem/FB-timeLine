@@ -1,4 +1,4 @@
-w
+
 
 /* --fds-blue-30: #AAC9FF;
 --fds-blue-40: #77A7FF;
@@ -6,6 +6,13 @@ w
 --fds-blue-70: #2851A3;
 --fds-blue-80: #1D3C78; */
 
-.App{
-  display: flex;
+
+input{
+  height: 40px;
+  width: 250px;
+}
+select{
+  height: 40px;
+  margin: 10px;
+  width: 50px;
 }
